@@ -1,3 +1,8 @@
-2025/04/10-13:06:55.654 10e4 Recovering log #1819
-2025/04/10-13:06:55.659 10e4 Delete type=0 #1819
-2025/04/10-13:06:55.659 10e4 Delete type=3 #1817
+2025/04/11-13:48:33.031 b390 Recovering log #1826
+2025/04/11-13:48:33.036 b390 Delete type=0 #1826
+2025/04/11-13:48:33.036 b390 Delete type=3 #1825
+2025/04/11-13:51:32.242 ac70 Level-0 table #1830: started
+2025/04/11-13:51:32.242 ac70 Level-0 table #1830: 0 bytes OK
+2025/04/11-13:51:32.244 ac70 Delete type=0 #1828
+2025/04/11-13:51:32.247 ac70 Manual compaction at level-0 from '!items!0FvZbzM5ghHfq4pM' @ 72057594037927935 : 1 .. '!items.effects!vDqY7f5ucVsyUYji.u1vxcPNPV0mLIfXo' @ 0 : 0; will stop at (end)
+2025/04/11-13:51:32.247 ac70 Manual compaction at level-1 from '!items!0FvZbzM5ghHfq4pM' @ 72057594037927935 : 1 .. '!items.effects!vDqY7f5ucVsyUYji.u1vxcPNPV0mLIfXo' @ 0 : 0; will stop at (end)

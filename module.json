@@ -1,7 +1,7 @@
 {
   "id": "1-stout-heart-base-objects",
   "title": "1 Stout Heart Base Objects",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/mdstout/1-stout-heart-base-objects",
   "manifest": "https://raw.githubusercontent.com/mdstout/1-stout-heart-base-objects/main/module.json",
   "download": "https://github.com/mdstout/1-stout-heart-base-objects/archive/refs/heads/main.zip",
@@ -110,6 +110,7 @@
       "name": "Stout Heart",
       "email": "mdstout@outlook.com",
       "discord": "mds0001",
+      "url": "www.mdstout.com",
       "flags": {}
     }
   ],
